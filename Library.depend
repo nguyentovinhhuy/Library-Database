@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1572615253 source:g:\c\library database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Function.h"
+
+1572106110 g:\c\library database\function.h
+	<stdio.h>
+	<stdlib.h>
+	"book_list.h"
+	"add_book.h"
+	"find_books.h"
+	"del_books.h"
+	"list_of_book.h"
+	"import.h"
+
+1572088628 g:\c\library database\book_list.h
+
+1572614875 g:\c\library database\add_book.h
+
+1572106414 g:\c\library database\find_books.h
+
+1572059360 g:\c\library database\del_books.h
+
+1572676263 g:\c\library database\list_of_book.h
+
+1572614451 g:\c\library database\import.h
+
